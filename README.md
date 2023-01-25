@@ -19,3 +19,17 @@ The game can be customized by modifying the values of certain variables in the c
 
 # Dependencies
 This game requires Python 3 and the turtle module to run.
+
+# Built-With
+Python - The programming language used
+Turtle - The Python library used for the game's graphics
+
+# Contributing
+If you would like to contribute to this project, please open a pull request and I will review it as soon as possible.
+
+# Authors
+Utsav Acharya - Clerisyutsav47
+
+# Acknowledgments
+Thanks to the Python and Turtle communities for creating such amazing tools for building games like this!
+Enjoy the game!
