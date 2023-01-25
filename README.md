@@ -3,7 +3,7 @@ This is a multiplayer Pong game built using Python's turtle module. The game fea
 
 The game can be run by executing the main.py file.
 
-Code Structure
+# Code-Structure
 The code for the game consists of four main files:
 
 ball.py: This file defines the Ball class, which inherits from the Turtle class. The class includes methods for moving the ball, bouncing off the walls and the paddles, and resetting the ball to its initial position.
@@ -14,8 +14,8 @@ scoreboard.py: This file defines the Scoreboard class, which keeps track of the 
 
 main.py: This file creates the game screen, creates instances of the Paddle, Ball, and Scoreboard classes, and sets up the game loop that updates the screen and handles the game logic.
 
-Customization
+# Customization
 The game can be customized by modifying the values of certain variables in the code. For example, the size of the screen can be changed by modifying the setup() method in the main.py file. The speed of the ball can be changed by modifying the speed attribute of the Ball class in the ball.py file.
 
-Dependencies
+# Dependencies
 This game requires Python 3 and the turtle module to run.
